@@ -4,4 +4,3 @@
 4. Launch the Todo App Container - docker run -d --name todoapp -p 8081:8080 vlad584/todoapp_2.0.0
 5. Access the Application
 Once both containers are running, open your browser and go to: http://localhost:8081
-
